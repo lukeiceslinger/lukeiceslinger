@@ -1,4 +1,4 @@
-# **Hello, I'm Saransh Sharma 👋
+# Hello, I'm Saransh Sharma 👋
 
 Welcome to my GitHub profile! I'm an enthusiastic developer with a passion for crafting innovative solutions that blend creativity and technology. My repositories showcase a diverse array of projects that reflect my dedication to excellence and my eagerness to explore emerging technologies.
 
