@@ -40,9 +40,6 @@ I'm always excited to connect with fellow developers and enthusiasts. Feel free 
 
 All projects are released under the MIT License.
 
-## **Acknowledgments**
-
-Grateful for the support and inspiration from [mention_names_of_people_or_resources], which have significantly contributed to the realization of these projects.
 
 ---
 
