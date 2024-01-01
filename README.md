@@ -4,6 +4,11 @@ Welcome to my GitHub profile! I'm an enthusiastic developer with a passion for c
 
 ## **Featured Projects**
 
+### Vikasietum Technologies Internship Repository 🚀
+
+Embark on my journey of continuous learning and growth with the Vikasietum Technologies Internship Repository. This space chronicles my daily activities, progress, and projects during the internship, as I delve into Java, Spring Boot, GitLab, software design patterns, Test-Driven Development (TDD), and various technologies like APIs and Argon.
+
+
 ### DoodleFusion Showdown 🎨
 
 Unleash your creativity in the dynamic realm of DoodleFusion Showdown. This real-time multiplayer drawing game merges the enchantment of Unity with the magic of Phoenix/Elixir, enabling players to collaboratively conjure mesmerizing masterpieces.
